@@ -238,4 +238,6 @@ def word_guess():
       break
     else:
       print('pls enter correct comand')  
-word_guess()
+# word_guess()
+
+
